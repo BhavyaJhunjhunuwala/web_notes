@@ -11,13 +11,14 @@ The web-application is built with MERN stack and powered by Material-UI.Encrypti
 # Project Highlights
 
 
-To run Project in Local System , copy the repository ,install all dependencies mentioned in package.json and use npm start.
-You will also have to clone Backend Respository . you can clone it from 
+To run Project in Local System ,you can clone it from 
 
 (https://github.com/BhavyaJhunjhunuwala/web_notes.git) 
 
 
-Install all the packages and library using npm install 
+Install all the packages and library using 
+
+npm install 
 
 
 # start frontend
