@@ -25,6 +25,7 @@ npm start
 
 # start backend server
 cd WebNotes-Backend
+
 npm start
 
 # Getting Started with Create React App in Your local system
@@ -94,5 +95,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Contributor
 This Project has been developed by-: 
+
 Ankit Sharma (UI21EC13)
+
 Bhavya Jhunjhunuwala (UI21EC20)
