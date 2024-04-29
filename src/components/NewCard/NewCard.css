@@ -1,0 +1,18 @@
+.NewCard-Container{
+    height: 53vh;
+    width: 30vw;
+    position: fixed;
+    background-color: rgb(40, 110, 214);
+    right: 35%;
+    top: 25%;
+    
+}
+.NewCard-Heading{
+    text-align: center;
+    height: 10vh;
+    font-size: 6vh;
+}
+.new-area{
+    width: 94%;
+    margin:2.5%;
+}

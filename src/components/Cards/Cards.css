@@ -1,0 +1,79 @@
+.Cards-Container{
+    /* border: 3px solid rgb(40, 110, 214); */
+    border-radius: 2%;
+    /* background-color: aqua; */
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -200px, rgba(0, 0, 0, 0.3) 0px 30px 60px -300px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+    height: max-content;
+    /* margin-left: 17px;
+    margin-bottom: 17px; */
+    width: max-content;
+    padding: 15px;
+    /* background-image: url(); */
+}
+.Cards-Phone{
+    padding-left: 1.2%;
+    color: rgb(146, 29, 29);
+}
+body{
+    background-color: rgb(250, 243, 234);
+}
+.Cards-Time{
+    padding-right: 1.2%;
+    color:#1976d2;
+    
+}
+.Cards-Container2{
+    width: 38vw;
+    height: 100%;
+    padding: 10px;
+}
+.Cards-Heading{
+    display: flex;
+    color: #1976d2;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+textarea  
+{  
+   font-family:"Times New Roman", Times, serif;  
+   font-size: 15px;  
+   border: 0px; 
+}
+textarea {
+    border: none;
+    overflow: auto;
+    outline: none;
+    height: 50%;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    resize: none;
+}
+.Cards-Text{
+    display: block;
+    color: rgb(17, 74, 160);
+    font-size: large;
+    background: transparent;
+    /* background-color: blueviolet; */
+    width: 100%;
+    /* background-color: black; */
+    word-wrap: break-word;
+}
+/* .Cards-Delete{
+    position: relative;
+} */
+.TodoArea{
+    height: min-content;
+}
+.truncate {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+.DialogTruncate{
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    overflow-y:scroll;
+}

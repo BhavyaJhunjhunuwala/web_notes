@@ -1,0 +1,17 @@
+.Register-Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    margin-top: 9vh;
+}
+.Button-Input{
+    width: 20vw;
+    height: 4vh;
+    padding: 5px;
+}
+.Register-Cpassword{
+    margin-bottom: 10px;
+
+}

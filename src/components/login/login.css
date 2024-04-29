@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.root{
+    margin: auto;
+}
+.Login{
+    width: 15vw;
+    height: 35vh;
+    margin: auto;
+    margin-top: 14vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.Login-Heading{
+    text-align: center;
+    margin: 2vw 0 2vw 0;
+    font-size: 3vw;
+}
+.Login-a,.Login-Error{
+    text-align: center;
+}
+.Login-Phone,.Login-Password{
+    padding: 6px;
+    border: 0.3px solid;
+    background: transparent;
+}
